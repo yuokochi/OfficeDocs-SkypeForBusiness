@@ -34,6 +34,7 @@ You can upgrade to the new Teams client to your organization by setting policies
 |Office |Microsoft 365 Apps or Office LTSC 2021 Learn more: [Office versions and connectivity to Microsoft 365 services](/deployoffice/endofsupport/microsoft-365-services-connectivity)|
 |Settings|Turn on the "Show Notification Banners" setting in **System > Notifications > Microsoft Teams** to receive Teams Notifications.|
 |Delivery optimization (DO)|DO powers Teams automatic updates, which are required as part of the [Servicing Agreement](/microsoftteams/new-teams-automatic-upgrade-announced#servicing-agreement).</br></br>Overview: [What is Delivery Optimization?](/windows/deployment/do/waas-delivery-optimization)</br>Recommended settings: [Set up Delivery Optimization](/windows/deployment/do/waas-delivery-optimization-setup#recommended-delivery-optimization-settings)<br></br>**Note:** Download Mode 100 (Bypass) isn't supported.|
+|App Installer|Update to the most current version.|
 
 ### Required Microsoft 365 Apps Security Updates
 
